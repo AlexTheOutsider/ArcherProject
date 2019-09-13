@@ -74,3 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 ArcherProject/Saved/
 ArcherProject/Intermediate/
+ArcherProject/Builds/
