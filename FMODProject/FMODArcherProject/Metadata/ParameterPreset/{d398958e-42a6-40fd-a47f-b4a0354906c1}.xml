@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{d398958e-42a6-40fd-a47f-b4a0354906c1}">
+		<property name="name">
+			<value>Speed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c5952cc5-b924-403a-b924-1c7984c1a78b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{20263d68-829a-4542-a8c0-cc4ed3d5ac4d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{20263d68-829a-4542-a8c0-cc4ed3d5ac4d}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
