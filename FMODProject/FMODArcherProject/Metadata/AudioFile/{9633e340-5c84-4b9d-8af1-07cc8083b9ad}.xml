@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{9633e340-5c84-4b9d-8af1-07cc8083b9ad}">
+		<property name="assetPath">
+			<value>Music/ファクトリー・ノイズ&amp;AG - ガーデン.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>185.07755102040815</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c292738b-ff45-47df-90cf-fb4e7d2bc686}</destination>
+		</relationship>
+	</object>
+</objects>
